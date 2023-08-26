@@ -1,4 +1,4 @@
-# Support-Vector-Mechine
+# Support-Vector-Machine
 ## Name:K.Saivinay
 ## Roll No:21X05A6731
 ## Branch:Data Science Final Year
@@ -21,7 +21,7 @@
 ## Find out the prediciton value on the test data
 # Task-7:
 ## Test the model with the help of accuracy, accuracy should be lie in the range 0 to 1.
-# project Apporach:
+# Project Apporach:
 ![image](https://github.com/Saivinay517/Support-Vector-Mechine/assets/116196075/095135bf-6db1-4394-8dd2-9b88328b30ae)
 # Project Accuracy:
 ![image](https://github.com/Saivinay517/Support-Vector-Mechine/assets/116196075/7199a70b-c6a9-42ef-a6cf-819f50cf531c)
